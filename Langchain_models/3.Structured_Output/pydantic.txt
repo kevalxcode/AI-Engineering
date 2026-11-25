@@ -1,0 +1,13 @@
+# Pydantic
+
+Pydantic is data validation and data parsing library for python. It ensure the data you work with is correct, structured and type-safe.
+
+It try to understand what data u send so automatically try to type implist
+ 
+It also have feature to send optional  values
+
+
+We can validate email through pydantic easily
+
+
+It has Field function-> Default values, constraints, description, regex expression
