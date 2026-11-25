@@ -1,0 +1,4 @@
+https://designed-to-scale.vercel.app/#/napkin-math/1
+
+
+https://github.com/ashishps1/awesome-system-design-resources
